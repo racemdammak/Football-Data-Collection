@@ -1,0 +1,33 @@
+1- Passe Precise
+2- Passe Perdue
+3- Longue Passe Precise
+4- Interception
+5- Dribble
+6- Longue Passe Perdue
+7- Passe en Profondeur
+8- Tir Cadre
+9- Tir non Cadre
+0- Perte de Ball
+10-Degagement
+11-Tir Bloce
+13-Grosse Occasion
+14-Assiste
+15-But
+16-Penalty
+17-Faute
+18-Tacle
+19-Corner
+20-C.Jaune
+21-C.Rouge
+22-Arret du Gardien
+23-Centrage Precis
+24-Centrage Perdu
+25-Duel Gagne
+26-Duel Perdu
+27-Hors-Jeu
+28-Poteau
+29-Own Goal
+30-Frappe de tete
+
+
+

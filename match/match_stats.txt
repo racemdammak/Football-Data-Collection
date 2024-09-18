@@ -1,0 +1,49 @@
+MCI,J.Gvardiol,Passe Precise
+MCI,Ederson,Longue Passe Precise
+MCI,E.Haaland,Perte de Ball
+MCI,N.O'Rilly,Faute
+MCI,M.Kovacic,Interception
+MCI,M.Kovacic,Passe Precise
+MCI,O.Bobb,Passe Precise
+MCI,M.Akanji,Passe Precise
+MCI,R.Dias,Passe Precise
+MCI,J.Gvardiol,Longue Passe PerdueMCI,M.Kovacic,Passe Precise
+MCI,E.Haaland,Passe Perdue
+MCI,J.Gvardiol,Dribble
+MCI,M.Akanji,Perte de Ball
+MUN,A.Diallo,Passe Precise
+MUN,M.Rashford,Passe Perdue
+MUN,M.Mount,Longue Passe Precise
+MCI,B.Silva,Interception
+MUN,A.Garnacho,Passe Precise
+MUN,A.Garnacho,Passe Perdue
+MUN,A.Garnacho,Longue Passe Precise
+MCI,J.Doku,Grosse Occasion
+MCI,N.O'Rilly,Duel Gagne
+MCI,O.Bobb,Arret du Gardien
+MUN,A.Diallo,C.Rouge
+MUN,Casemiro,Centrage Perdu
+MCI,Ederson,MCI,R.Dias,MCI,M.Kovacic,Passe en Profondeur
+MCI,J.Doku,MCI,J.Doku,MCI,N.O'Rilly,MCI,J.Gvardiol,MCI,J.Doku,MCI,B.Silva,MCI,B.Silva,MCI,J.Doku,Passe Precise
+MCI,B.Silva,Passe Precise
+MCI,M.Kovacic,Longue Passe Precise
+MCI,J.Doku,Dribble
+MCI,J.Gvardiol,Tir non Cadre
+MCI,O.Bobb,Passe en Profondeur
+MUN,L.Martinez,Dribble
+MUN,A.Diallo,Longue Passe Perdue
+MUN,Casemiro,Interception
+MUN,J.Evans,Perte de Ball
+MUN,A.Garnacho,But
+MUN,A.Garnacho,Dribble
+MUN,A.Diallo,Longue Passe Precise
+MUN,D.Dalot,Faute
+MUN,J.Evans,Assiste
+MCI,B.Silva,Passe Precise
+MCI,O.Bobb,Longue Passe Precise
+MUN,Casemiro,Passe Perdue
+MUN,A.Garnacho,Perte de Ball
+MUN,M.Mount,Degagement
+MCI,K.D.Bruyne,Passe Precise
+MCI,J.Gvardiol,Longue Passe Precise
+MCI,B.Silva,Perte de Ball
