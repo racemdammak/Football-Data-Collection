@@ -1,0 +1,1 @@
+command=lambda: subs_player('H', player_out, player_in)
