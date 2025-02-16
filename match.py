@@ -6,14 +6,14 @@ def startXY(event):
     global start_x, start_y
     start_x, start_y = event.x, event.y
 
-    with open("match\\map.txt", "a") as file:
-        file.write(f"{start_x}, {start_y},")
+    with open("match\\match_stats.txt", "a") as file:
+        file.write(f"{start_x},{start_y},")
 
 def endXY(event):
     end_x, end_y = event.x, event.y
 
-    with open("match\\map.txt", "a") as file:
-        file.write(f"{end_x}, {end_y}\n")
+    with open("match\\match_stats.txt", "a") as file:
+        file.write(f"{end_x},{end_y},")
 
 def key_press(event):
     global key_bindings_paused
@@ -135,14 +135,14 @@ def enable_key_bindings(event=None):
 def save_events():
     match_stats = 'match\\match_stats.txt'
     match_stats_csv = 'match\\stats.csv'
-    map_coordinates = 'match\\map.txt'
-    map_coor_csv = 'match\\map.csv'
+    '''map_coordinates = 'match\\map.txt'
+    map_coor_csv = 'match\\map.csv'''
 
     df_stats = pd.read_csv(match_stats, delimiter=',')
     df_stats.to_csv(match_stats_csv, index=False)
 
-    df_map = pd.read_csv(map_coordinates, delimiter=',')
-    df_map.to_csv( map_coor_csv, index=False)
+    '''df_map = pd.read_csv(map_coordinates, delimiter=',')
+    df_map.to_csv( map_coor_csv, index=False)'''
 
 def load_data():
     with open('match\\match_stats.txt', "r") as file:
@@ -153,16 +153,16 @@ def load_data():
     for widget in table.winfo_children():
         widget.destroy()
 
-    for col_index in range(3):
-        header_label = ctk.CTkLabel(table, width=100, height=30, fg_color="#41B3A2", text_color="white", corner_radius=5)
-        header_label.grid(row=0, column=col_index, padx=5, pady=5)
+    '''for col_index in range(8):
+        header_label = ctk.CTkLabel(table, width=80, height=30, fg_color="#41B3A2", text_color="white", corner_radius=5)
+        header_label.grid(row=0, column=col_index, padx=5, pady=5)'''
 
     create_table(table, data)
 
 def create_table(table, data):
     for row_index, row in enumerate(data):
         for col_index, value in enumerate(row):
-            label = ctk.CTkLabel(table, text=value, width=100, height=30, text_color="white", corner_radius=5)
+            label = ctk.CTkLabel(table, text=value, width=60, height=30, text_color="white", corner_radius=5)
             label.grid(row=row_index, column=col_index, padx=5, pady=5)
 
 def del_last():
@@ -238,17 +238,17 @@ def create_app():
     subs_situation.configure(text="Les évenements: ON", text_color="#117554")
 
     table = ctk.CTkFrame(fenetre, fg_color="transparent")
-    table.place(x=width - 540, y=490)
+    table.place(x=width - 600, y=490)
 
     load_data()
 
     save_btn = ctk.CTkButton(fenetre, text="Enregistrer", command=lambda: save_events(), fg_color="#EFB036", text_color="black",
                                 hover_color="#FFC785", width=80, height=30)
-    save_btn.place(x=width - 130, y=495)
+    save_btn.place(x=width - 675, y=495)
 
     del_last_btn = ctk.CTkButton(fenetre, text="Supprimer", command=lambda: del_last(), fg_color="#D84040", text_color="white",
                                 hover_color="#8E1616", width=80, height=30)
-    del_last_btn.place(x=width - 650, y=495)
+    del_last_btn.place(x=width - 675, y=530)
 
     players_lists()
 

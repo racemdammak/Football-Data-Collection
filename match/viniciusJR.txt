@@ -1,4 +1,3 @@
-Team,Player,Event
 MCI,B.Silva,Passe Precise
 MCI,Ederson,Passe Precise
 MCI,R.Dias,Passe Precise
@@ -28,7 +27,7 @@ MCI,K.DeBruyne,Corner
 RMA,Rodrgyo,Passe Precise
 RMA,J.Bellingham,Longue Passe Precise
 RMA,K.Mbappe,Passe Precise
-RMA,ViniciusJR,Longue Passe Perdue
+RMA,ViniciusJR,564,49,525,256,Longue Passe Perdue
 MCI,B.Silva,Passe Precise
 MCI,J.Stones,Passe Precise
 MCI,K.DeBruyne,Passe Precise
@@ -51,7 +50,7 @@ RMA,A.Tchouameni,Passe Precise
 RMA,T.Courtois,Passe Precise
 RMA,R.Asencio,Passe Precise
 RMA,F.Mendy,Passe Precise
-RMA,ViniciusJR,Duel Gagne
+RMA,ViniciusJR,310,46,310,46,Duel Gagne
 MCI,M.Akanji,Faute
 RMA,D.Ceballos,Passe Precise
 RMA,A.Tchouameni,Passe Precise
@@ -62,7 +61,7 @@ RMA,J.Bellingham,Perte de Ball
 MCI,J.Stones,Interception
 MCI,J.Stones,Passe Precise
 MCI,Savinho,Passe Perdue
-RMA,ViniciusJR,Interception
+RMA,ViniciusJR,306,47,306,47,Interception
 MCI,R.Dias,Passe Precise
 MCI,N.Ake,Passe Precise
 MCI,R.Dias,Passe Precise
@@ -86,13 +85,13 @@ RMA,T.Courtois,Passe Precise
 RMA,A.Tchouameni,Passe Precise
 RMA,T.Courtois,Passe Precise
 RMA,R.Asencio,Longue Passe Precise
-RMA,ViniciusJR,Passe Precise
+RMA,ViniciusJR,282,55,251,32,Passe Precise
 RMA,J.Bellingham,Passe Precise
 RMA,K.Mbappe,Perte de Ball
 MCI,R.Dias,Interception
 RMA,D.Ceballos,Passe Precise
 RMA,J.Bellingham,Passe Precise
-RMA,ViniciusJR,Passe Precise
+RMA,ViniciusJR,499,79,402,75,Passe Precise
 RMA,D.Ceballos,Passe Precise
 RMA,E.Camavinga,Passe Precise
 RMA,A.Tchouameni,Passe Precise
@@ -105,7 +104,7 @@ RMA,E.Camavinga,Passe Precise
 RMA,T.Courtois,Passe Precise
 RMA,A.Tchouameni,Passe Precise
 RMA,F.Mendy,Passe Precise
-RMA,ViniciusJR,Longue Passe Perdue
+RMA,ViniciusJR,360,41,573,151,Longue Passe Perdue
 MCI,Ederson,Passe Precise
 MCI,M.Akanji,Perte de Ball
 RMA,R.Asencio,Passe Precise
@@ -130,8 +129,8 @@ RMA,F.Mendy,Passe Precise
 RMA,D.Ceballos,Passe Precise
 RMA,J.Bellingham,Dribble
 RMA,J.Bellingham,Passe Precise
-RMA,ViniciusJR,Dribble
-RMA,ViniciusJR,Longue Passe Precise
+RMA,ViniciusJR,363,107,363,107,Dribble
+RMA,ViniciusJR,466,165,609,354,Longue Passe Precise
 RMA,K.Mbappe,Tir Cadre
 MCI,Ederson,Arret du Gardien
 MCI,B.Silva,Passe Precise
@@ -146,7 +145,7 @@ RMA,Rodrgyo,Passe Precise
 RMA,K.Mbappe,Passe Precise
 RMA,Rodrgyo,Passe Precise
 RMA,F.Mendy,Passe Precise
-RMA,ViniciusJR,Passe Precise
+RMA,ViniciusJR,659,230,686,223,Passe Precise
 RMA,F.Mendy,Tir Bloce
 MCI,N.Ake,Interception
 RMA,Rodrgyo,Corner
@@ -159,13 +158,13 @@ RMA,F.Valverde,Longue Passe Precise
 RMA,K.Mbappe,Passe Precise
 RMA,Rodrgyo,Passe Precise
 RMA,K.Mbappe,Passe Precise
-RMA,ViniciusJR,Perte de Ball
+RMA,ViniciusJR,482,337,482,337,Perte de Ball
 MCI,B.Silva,Passe Precise
 MCI,J.Grealish,Passe Precise
 MCI,R.Dias,Passe Precise
 RMA,J.Bellingham,Interception
 MCI,K.DeBruyne,Passe Perdue
-RMA,ViniciusJR,Perte de Ball
+RMA,ViniciusJR,561,211,561,211,Perte de Ball
 MCI,J.Grealish,Passe Precise
 MCI,J.Stones,Passe Precise
 MCI,R.Dias,Passe Precise
@@ -190,7 +189,7 @@ MCI,J.Gvardiol,Passe Perdue
 RMA,E.Camavinga,Passe Precise
 RMA,R.Asencio,Passe Precise
 RMA,F.Mendy,Passe Precise
-RMA,ViniciusJR,Passe Precise
+RMA,ViniciusJR,341,34,336,76,Passe Precise
 RMA,K.Mbappe,Passe Precise
 RMA,F.Mendy,Perte de Ball
 MCI,K.DeBruyne,Interception
@@ -200,7 +199,7 @@ MCI,K.DeBruyne,Passe Precise
 MCI,Savinho,Perte de Ball
 RMA,R.Asencio,Interception
 RMA,D.Ceballos,Interception
-RMA,ViniciusJR,Passe Precise
+RMA,ViniciusJR,218,38,244,102,Passe Precise
 RMA,K.Mbappe,Passe Precise
 RMA,Rodrgyo,Longue Passe Perdue
 MCI,Ederson,Degagement
@@ -238,7 +237,7 @@ MCI,K.DeBruyne,Perte de Ball
 RMA,R.Asencio,Interception
 MCI,Savinho,Corner
 RMA,K.Mbappe,Passe Precise
-RMA,ViniciusJR,Dribble
+RMA,ViniciusJR,451,146,451,146,Dribble
 RMA,ViniciusJR,Perte de Ball
 MCI,Savinho,Interception
 RMA,J.Bellingham,Passe Precise
@@ -247,17 +246,17 @@ RMA,D.Ceballos,Passe Precise
 RMA,E.Camavinga,Passe Precise
 RMA,R.Asencio,Passe Precise
 RMA,F.Mendy,Passe Precise
-RMA,ViniciusJR,Passe Perdue
+RMA,ViniciusJR,510,35,510,35,Passe Perdue
 MCI,M.Akanji,Interception
 RMA,K.Mbappe,Passe Precise
 RMA,J.Bellingham,Passe Precise
 RMA,D.Ceballos,Passe Precise
-RMA,ViniciusJR,Passe Perdue
+RMA,ViniciusJR,584,80,532,100,Passe Perdue
 MCI,J.Stones,Interception
 MCI,B.Silva,Passe Perdue
 RMA,E.Camavinga,Passe Precise
 RMA,J.Bellingham,Passe Precise
-RMA,ViniciusJR,Poteau
+RMA,ViniciusJR,660,175,752,263,Poteau
 RMA,K.Mbappe,Grosse Occasion
 RMA,F.Mendy,Grosse Occasion
 MCI,E.Haaland,Grosse Occasion
@@ -302,10 +301,10 @@ MCI,N.Ake,Passe Precise
 MCI,R.Dias,Longue Passe Perdue
 RMA,Rodrgyo,Passe Precise
 RMA,E.Camavinga,Longue Passe Precise
-RMA,ViniciusJR,Centrage Perdu
+RMA,ViniciusJR,643,101,657,153,Centrage Perdu
 MCI,M.Akanji,Interception
 RMA,F.Mendy,Passe Precise
-RMA,ViniciusJR,Passe Precise
+RMA,ViniciusJR,634,46,548,121,Passe Precise
 RMA,D.Ceballos,Tir non Cadre
 MCI,J.Stones,Passe Precise
 MCI,Ederson,Passe Precise
@@ -463,7 +462,7 @@ RMA,F.Valverde,Passe Perdue
 MCI,N.Ake,Perte de Ball
 RMA,Rodrgyo,Interception
 RMA,Rodrgyo,Passe Precise
-RMA,ViniciusJR,Perte de Ball
+RMA,ViniciusJR,737,189,737,189,Perte de Ball
 MCI,M.Akanji,Interception
 RMA,Rodrgyo,Corner
 MCI,E.Haaland,Degagement
@@ -509,7 +508,7 @@ RMA,T.Courtois,Longue Passe Precise
 RMA,Rodrgyo,Passe Precise
 RMA,K.Mbappe,Passe Precise
 RMA,Rodrgyo,Passe Precise
-RMA,ViniciusJR,Passe Perdue
+RMA,ViniciusJR,706,173,719,266,Passe Perdue
 MCI,Savinho,Longue Passe Perdue
 RMA,E.Camavinga,Passe Precise
 RMA,F.Valverde,Passe Precise
@@ -545,7 +544,7 @@ RMA,E.Camavinga,Passe Precise
 RMA,Rodrgyo,Passe Precise
 RMA,F.Valverde,Passe Precise
 RMA,D.Ceballos,Longue Passe Precise
-RMA,ViniciusJR,Passe Precise
+RMA,ViniciusJR,699,128,601,210,Passe Precise
 RMA,E.Camavinga,Passe Precise
 RMA,K.Mbappe,Tir Bloce
 MCI,N.Ake,Interception
